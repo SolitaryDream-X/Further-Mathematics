@@ -159,9 +159,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "第一章 函数与极限.md"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "第一章 函数与极限 的大纲"
             }
           },
           {
@@ -179,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 243.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,7 +197,7 @@
       "i18n:I18N": false
     }
   },
-  "active": "788bbbcfa17b9b5f",
+  "active": "78aaeaab08ec3bbe",
   "lastOpenFiles": [
     "目录.md",
     "高等数学/README.md",
