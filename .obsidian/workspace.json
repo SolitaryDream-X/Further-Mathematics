@@ -79,8 +79,8 @@
             "state": {
               "type": "file-tree-view",
               "state": {},
-              "icon": "sheets-in-box",
-              "title": "File Tree"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -92,9 +92,19 @@
               "icon": "sheets-in-box",
               "title": "File Tree"
             }
+          },
+          {
+            "id": "f583428130d0a2c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
