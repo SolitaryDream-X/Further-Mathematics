@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "第二章 导数与微分.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "第二章 导数与微分"
             }
           }
         ]
@@ -209,8 +209,9 @@
   },
   "active": "59aed49df111377c",
   "lastOpenFiles": [
-    "第一章 函数与极限.md",
     "目录.md",
+    "第二章 导数与微分.md",
+    "第一章 函数与极限.md",
     "README.md",
     "高等数学/README.md",
     "高等数学/第一章 函数与极限.md",
