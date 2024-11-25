@@ -79,8 +79,8 @@
             "state": {
               "type": "file-tree-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "sheets-in-box",
+              "title": "File Tree"
             }
           },
           {
@@ -203,16 +203,17 @@
       "command-palette:打开命令面板": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "obsidian-git:打开Git源代码管理": false,
-      "obsidian42-brat:BRAT": false,
-      "i18n:I18N": false
+      "i18n:I18N": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "78aaeaab08ec3bbe",
+  "active": "59aed49df111377c",
   "lastOpenFiles": [
     "目录.md",
+    "第一章 函数与极限.md",
+    "README.md",
     "高等数学/README.md",
     "高等数学/第一章 函数与极限.md",
-    "README.md",
     "高等数学/目录.md",
     "高等数学.md",
     "未命名"
