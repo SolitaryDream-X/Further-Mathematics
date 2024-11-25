@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "61c90a97bc99db77",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8e2e1bec58aefcc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59aed49df111377c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第一章 函数与极限.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第一章 函数与极限"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "504150a2b248f7d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee619b91fdc50ae8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb7f061357dcb51e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "32c29fe93304aeab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "d5cc970af79f7b8e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "15c60c388e7fe561",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
+          },
+          {
+            "id": "788bbbcfa17b9b5f",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b3504a73e9bbe03c",
+    "type": "split",
+    "children": [
+      {
+        "id": "475428c1f2e8151b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3beff34b8c1f6738",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "高等数学/第一章 函数与极限.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "第一章 函数与极限 的反向链接列表"
+            }
+          },
+          {
+            "id": "943c978665f188bf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "高等数学/第一章 函数与极限.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "第一章 函数与极限 的出链列表"
+            }
+          },
+          {
+            "id": "f291bfe03615db42",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "56d80e3a2f0b3b86",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "78aaeaab08ec3bbe",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "源代码管理"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "obsidian-git:打开Git源代码管理": false,
+      "obsidian42-brat:BRAT": false,
+      "i18n:I18N": false
+    }
+  },
+  "active": "788bbbcfa17b9b5f",
+  "lastOpenFiles": [
+    "目录.md",
+    "高等数学/README.md",
+    "高等数学/第一章 函数与极限.md",
+    "README.md",
+    "高等数学/目录.md",
+    "高等数学.md",
+    "未命名"
+  ]
+}
