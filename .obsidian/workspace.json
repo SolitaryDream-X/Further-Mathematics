@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b70893b2006a9ba8",
+            "id": "a55b1632a0be684c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "第01章 函数与极限.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "第01章 函数与极限"
+            }
+          },
+          {
+            "id": "721d1f3ce92ff070",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第2章 导数与微分.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第2章 导数与微分"
             }
           }
         ]
@@ -207,25 +221,25 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b70893b2006a9ba8",
+  "active": "f583428130d0a2c7",
   "lastOpenFiles": [
-    "附录3  积分表.md",
-    "附录2 微分法则.md",
-    "附录1 初等函数导数表.md",
-    "第1章 函数与极限.md",
+    "第02章 导数与微分.md",
     "README.md",
+    "第03章 微分中值定理与导数的应用.md",
+    "第01章 函数与极限.md",
+    "附录2 微分法则.md",
+    "附录3  积分表.md",
+    "附录1 初等函数导数表.md",
     "目录.md",
     "第12章 无穷级数.md",
     "第11章 曲线积分与曲面积分.md",
     "第10章 重积分.md",
-    "第9章 多元函数微分法及其应用.md",
-    "第8章 向量代数与空间解析几何.md",
-    "第2章 导数与微分.md",
-    "第7章 微分方程.md",
-    "第6章 定积分的应用.md",
-    "第5章 定积分.md",
-    "第4章 不定积分.md",
-    "第3章 微分中值定理与导数的应用.md",
+    "第09章 多元函数微分法及其应用.md",
+    "第08章 向量代数与空间解析几何.md",
+    "第07章 微分方程.md",
+    "第06章 定积分的应用.md",
+    "第05章 定积分.md",
+    "第04章 不定积分.md",
     "高等数学/README.md",
     "高等数学/第一章 函数与极限.md",
     "高等数学/目录.md",
