@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第04章 不定积分.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第04章 不定积分"
+              "title": "README"
             }
           }
         ]
@@ -74,26 +74,6 @@
             }
           },
           {
-            "id": "15c60c388e7fe561",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {},
-              "icon": "sheets-in-box",
-              "title": "File Tree"
-            }
-          },
-          {
-            "id": "788bbbcfa17b9b5f",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {},
-              "icon": "sheets-in-box",
-              "title": "File Tree"
-            }
-          },
-          {
             "id": "f583428130d0a2c7",
             "type": "leaf",
             "state": {
@@ -104,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -209,9 +189,9 @@
   },
   "active": "a55b1632a0be684c",
   "lastOpenFiles": [
-    "第05章 定积分.md",
     "第06章 定积分的应用.md",
     "第04章 不定积分.md",
+    "第05章 定积分.md",
     "README.md",
     "附录3  积分表.md",
     "第03章 微分中值定理与导数的应用.md",
