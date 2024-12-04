@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "第04章 不定积分.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "第04章 不定积分"
             }
           }
         ]
@@ -189,10 +189,10 @@
   },
   "active": "a55b1632a0be684c",
   "lastOpenFiles": [
-    "第06章 定积分的应用.md",
-    "第04章 不定积分.md",
     "第05章 定积分.md",
+    "第06章 定积分的应用.md",
     "README.md",
+    "第04章 不定积分.md",
     "附录3  积分表.md",
     "第03章 微分中值定理与导数的应用.md",
     "第02章 导数与微分.md",
